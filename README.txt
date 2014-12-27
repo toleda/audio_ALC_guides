@@ -10,7 +10,8 @@ OS X Realtek ALC AppleHDA Guides
   C. No Audio After Sleep/Wake - Realtek ALC AppleHDA [Fixes]
   D. No Audio Devices - Realtek ALC AppleHDA [Guide]
   E. No Sound - Realtek ALC AppleHDA [Guide]
-  F. Surround Sound - Realtek ALC -  AppleHDA [Guide]
+  F. Screenshots - Realtek ALC AppleHDA_v2.pdf]
+  G. Surround Sound - Realtek ALC -  AppleHDA [Guide]
 
 Problem Reporting, see https://github.com/toleda/audio_realtekALC Problem Reporting
 
