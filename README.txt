@@ -7,11 +7,13 @@ Guides describe Realtek ALC AppleHDA onboard audio requirements, installation me
 OS X Realtek ALC AppleHDA Guides
   A. Capabilities - Realtek ALC AppleHDA_v2 [Guide]
   B. Customization - Realtek ALC AppleHDA_v2 [Guide]
-  C. No Audio After Sleep/Wake - Realtek ALC AppleHDA [Fixes]
-  D. No Audio Devices - Realtek ALC AppleHDA [Guide]
-  E. No Sound - Realtek ALC AppleHDA [Guide]
-  F. Screenshots - Realtek ALC AppleHDA_v2.pdf]
-  G. Surround Sound - Realtek ALC -  AppleHDA [Guide]
+  C. Identify Audio Codec [Guide]
+  D. No Audio After Sleep/Wake - Realtek ALC AppleHDA [Fixes]
+  E. No Audio Devices - Realtek ALC AppleHDA [Guide]
+  F. No Sound - Realtek ALC AppleHDA [Guide]
+  G. Restore native AppleHDA [Guide]
+  H. Screenshots - Realtek ALC AppleHDA_v2 [Guide]
+  I. Surround Sound - Realtek ALC -  AppleHDA [Guide]
 
 Problem Reporting, see https://github.com/toleda/audio_realtekALC Problem Reporting
 
