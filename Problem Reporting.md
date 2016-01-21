@@ -13,7 +13,7 @@ Change Log
 
 **Troubleshooting** 
 
-1. [Realtek ALC AppleHDA](https://github.com/toleda/audio_RealtekALC/blob/master/DETAILS.mdhttps://github.com/toleda/audio_ALC_guides/blob/master/Realtek%20ALC%20AppleHDA.pdf)
+1. [Realtek ALC AppleHDA](https://github.com/toleda/audio_ALC_guides/blob/master/Realtek%20ALC%20AppleHDA.pdf)
 
     1. Installation
     2. Details/Support  
