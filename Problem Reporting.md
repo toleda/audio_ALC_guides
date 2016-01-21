@@ -1,18 +1,20 @@
-# Problem Reporting - Realtek ALC AppleHDA_v1.0 [Guide]
-￼
+![alt text](https://github.com/toleda/audio_ALC_guides/blob/master/sound.jpeg)  
+Problem Reporting - Realtek ALC AppleHDA_v1.0
+# Problem Reporting - Realtek ALC AppleHDA [Guide]
 Problem Reporting - Realtek ALC AppleHDA
 Realtek ALC/Desktop: 269(1), 283(1), 885, 887, 888, 892, 898 and 1150 on board audio  
 Supports OS X: 10.11, 10.10, 10.9 and 10.8  
 (1) BRIX/NUC only
 
-Change Log  
-	1.	**v1.0 - 1/21/15: El Capitan/10.11.x**
 
 **Problem Reporting/Support for all Realtek ALC AppleHDA Guides**
 
+Change Log  
+	1.	**v1.0 - 1/21/15: El Capitan/10.11.x**
+
 **Troubleshooting** 
 
-1. [Realtek ALC AppleHDA](https://github.com/toleda/audio_RealtekALC/blob/master/DETAILS.md)
+1. [Realtek ALC AppleHDA](https://github.com/toleda/audio_RealtekALC/blob/master/DETAILS.mdhttps://github.com/toleda/audio_ALC_guides/blob/master/Realtek%20ALC%20AppleHDA.pdf)
 
     1. Installation
     2. Details/Support  
