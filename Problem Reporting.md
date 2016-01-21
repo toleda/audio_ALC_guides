@@ -1,4 +1,4 @@
-![alt text](https://github.com/toleda/audio_ALC_guides/blob/master/sound.jpeg)  
+![alt text](https://github.com/toleda/audio_ALC_guides/blob/master/xsound.jpeg)  
 Problem Reporting - Realtek ALC AppleHDA_v1.0
 # Problem Reporting - Realtek ALC AppleHDA [Guide]
 Problem Reporting - Realtek ALC AppleHDA
