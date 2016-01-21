@@ -75,7 +75,7 @@ Change Log
 	2.	DPCIManager/Misc/Boot Log (Tools 2.)
 	3.	EFI/CLOVER/ACPI/Patched/dsdt.aml (if installed)
 	4.	EFI/CLOVER/ACPI/Patched/ssdt.aml (if installed)
-12.	Post to (one link):
+12.	Post to (select one link):
 	1.	[Realtek ALC Audio - InsanelyMac.com](http://www.insanelymac.com/forum/topic/308387-el-capitan-realtek-alc-applehda-audio/page-1)
 	2. [No audio - tonymacx86.com](http://www.tonymacx86.com/audio/143752-no-audio-devices-realtek-alc-applehda-guide.html)
 	3. [No Audio After Sleep/Wake - tonymacx86.com](http://www.tonymacx86.com/audio/151504-no-audio-after-sleep-wake-realtek-alc-applehda-fixes.html)
