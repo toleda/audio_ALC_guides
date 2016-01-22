@@ -46,7 +46,7 @@ Change Log
 1.	Description of audio problem
 2.	OS X version/motherboard model/BIOS version/processor/graphics
 3.	Procedure/Guide used
-4. Terminal/Shell/File/Export Text As. . .
+4. Terminal/Shell/File/Export Text As. . . (if run)
 	1. audio_codecdetect.command (Tools 4.)
 	2. audio_cloverALC-1xx...command
 	3. audio_pikeralphaALC-1xx...command
@@ -75,12 +75,15 @@ Change Log
 	2.	DPCIManager/Misc/Boot Log (Tools 2.)
 	3.	EFI/CLOVER/ACPI/Patched/dsdt.aml (if installed)
 	4.	EFI/CLOVER/ACPI/Patched/ssdt.aml (if installed)
-12.	Post to (select one link):
-	1.	[Realtek ALC Audio - InsanelyMac.com](http://www.insanelymac.com/forum/topic/308387-el-capitan-realtek-alc-applehda-audio/page-1)
-	2. [No audio - tonymacx86.com](http://www.tonymacx86.com/audio/143752-no-audio-devices-realtek-alc-applehda-guide.html)
-	3. [No Audio After Sleep/Wake - tonymacx86.com](http://www.tonymacx86.com/audio/151504-no-audio-after-sleep-wake-realtek-alc-applehda-fixes.html)
-	4. [No Sound - tonymacx86.com](http://www.tonymacx86.com/audio/143750-no-sound-realtek-alc-applehda-guide.html)
-	5. [Realtek ALC Audio/Updates - tonymacx86.com](http://www.tonymacx86.com/audio/143757-audio-realtek-alc-applehda-guide.html)
+
+Post to (select one link):
+
+1.	[Realtek ALC Audio - InsanelyMac.com](http://www.insanelymac.com/forum/topic/308387-el-capitan-realtek-alc-applehda-audio/page-1)  
+2. [Realtek ALC Audio/Updates - tonymacx86.com](http://www.tonymacx86.com/audio/143757-audio-realtek-alc-applehda-guide.html)
+3. [No audio - tonymacx86.com](http://www.tonymacx86.com/audio/143752-no-audio-devices-realtek-alc-applehda-guide.html)  
+4. [No Sound - tonymacx86.com](http://www.tonymacx86.com/audio/143750-no-sound-realtek-alc-applehda-guide.html) 
+5. [No Audio After Sleep/Wake - tonymacx86.com](http://www.tonymacx86.com/audio/151504-no-audio-after-sleep-wake-realtek-alc-applehda-fixes.html)  
+
 
 toleda
 https://github.com/toleda/audio_ALC_guides
