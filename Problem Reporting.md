@@ -20,11 +20,11 @@ Change Log
     3. Troubleshooting
 2. [Realtek ALC guides](https://github.com/toleda/audio_ALC_guides)
 
-	1. No Audio Devices [Guide].pdf
+	1. No Audio Devices.pdf
 		1.	No audio devices, no sound, no codec
-	1.	No Sound [Guide].pdf
+	1.	No Sound.pdf
 		1.	Audio devices present, no sound when selected
-	1.	No Audio After Sleep/Wake [Fixes].pdf
+	1.	No Audio After Sleep/Wake.pdf
 		1.	No audio devices on wake
 
 
