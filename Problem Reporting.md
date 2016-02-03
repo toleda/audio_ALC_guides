@@ -1,6 +1,6 @@
 Problem Reporting - Realtek ALC AppleHDA_v1.0  
 ![alt text](https://github.com/toleda/audio_ALC_guides/blob/master/xsound.jpeg)  
-# Problem Reporting - Realtek ALC AppleHDA [Guide]
+# Problem Reporting - Realtek ALC AppleHDA
 Realtek ALC/Desktop: 269(1), 283(1), 885, 887, 888, 892, 898 and 1150 on board audio  (1) BRIX/NUC only  
 Supports OS X: 10.11, 10.10, 10.9 and 10.8 
 Native AppleHDA
