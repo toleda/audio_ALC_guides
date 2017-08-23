@@ -48,11 +48,6 @@ Change Log
 3.	Procedure/Guide used
 4. Terminal/Shell/File/Export Text As. . . (if run)
 	1. audio_codecdetect.command (Tools 4.)
-	2. audio_cloverALC-1xx...command
-	3. audio_pikeralphaALC-1xx...command
-	4. audio_realtekALC-1xx...command
-	5. AppleHDA8Series.sh
-	6. audio_cloverHDMI-1xx...command
 5.	Copy of IOReg - IOReg_v2.1/File/Save a Copy As…, verify file (Tools 1.)
 6. Copy Of Console/All Messages (last boot)/File/Save a Copy As..
 7.	Installed S/L/E/AppleHDA.kext or AppleHDA8Series AppleHDAxxx kext
@@ -74,7 +69,7 @@ Change Log
 	1.	EFI/CLOVER/config.plist
 	2.	DPCIManager/Misc/Boot Log (Tools 2.)
 	3.	EFI/CLOVER/ACPI/Patched/dsdt.aml (if installed)
-	4.	EFI/CLOVER/ACPI/Patched/ssdt.aml (if installed)
+	4.	EFI/CLOVER/ACPI/Patched/ssdt.aml (if installed, all files)
 
 Post to (select one link):
 
